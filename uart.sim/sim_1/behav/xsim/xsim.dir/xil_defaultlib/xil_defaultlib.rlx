@@ -1,0 +1,10 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Texlive/vivado_project/uart/uart.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Texlive/vivado_project/uart/uart.srcs/sources_1/new/baud_gen.v,1727609198,systemVerilog,,D:/Texlive/vivado_project/uart/uart.srcs/sources_1/new/uart.sv,,baud_gen,,,,,,,,
+D:/Texlive/vivado_project/uart/uart.srcs/sources_1/new/uart.sv,1727616876,systemVerilog,,D:/Texlive/vivado_project/uart/uart.srcs/sources_1/new/uart_rx.v,,uart,,,,,,,,
+D:/Texlive/vivado_project/uart/uart.srcs/sources_1/new/uart_rx.v,1727616878,systemVerilog,,D:/Texlive/vivado_project/uart/uart.srcs/sources_1/new/uart_tx.sv,,uart_rx,,,,,,,,
+D:/Texlive/vivado_project/uart/uart.srcs/sources_1/new/uart_tb.sv,1727618832,systemVerilog,,,,uart_tb,,,,,,,,
+D:/Texlive/vivado_project/uart/uart.srcs/sources_1/new/uart_tx.sv,1727616877,systemVerilog,,D:/Texlive/vivado_project/uart/uart.srcs/sources_1/new/uart_tb.sv,,uart_tx,,,,,,,,
